@@ -1,0 +1,16 @@
+
+public class Student {
+	
+	String fName, lName;
+	int age; 
+	
+	 Student(String fName, String lName, int age){
+		this.fName = fName; 
+		this.lName = lName; 
+		this.age = age; 
+		
+	}
+	
+	
+
+}

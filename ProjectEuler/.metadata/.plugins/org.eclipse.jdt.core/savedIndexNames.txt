@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\OneDrive\OneDrive - CUNY\ALL JAVA WorkSpaces\ProjectEuler\.metadata\.plugins\org.eclipse.jdt.core
+328957311.index
+1512099811.index
+4210612298.index
